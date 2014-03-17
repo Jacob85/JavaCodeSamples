@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf7160a-2807-42d3-9fde-2fd4be5b1237" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\yakia\Google Drive\Code Samples\src\ac\il\shenkar\enums\Main.java" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/enums/Main.java" />
-      <change type="MOVED" beforePath="C:\Users\yakia\Google Drive\Code Samples\src\ac\il\shenkar\enums\Operation.java" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/enums/Operation.java" />
-      <change type="MOVED" beforePath="C:\Users\yakia\Google Drive\Code Samples\src\ac\il\shenkar\enums\Planet.java" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/enums/Planet.java" />
+      <change type="DELETED" beforePath="C:\Users\yakia\Google Drive\Code Samples\src\innerclass\LinkedList.java" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\yakia\Google Drive\Code Samples\src\innerclass\LinkedList.java" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/innerclass/LinkedList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Code Samples.iws" />
@@ -24,7 +23,7 @@
     <file path="/DummyFile.xpath" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394976510880" ignored="false" />
     <file path="C:/plugins/6.1_sp5/voplugin/resources/cfg/StatsCollector_vo.xml" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394977272780" ignored="false" />
     <file path="/Operation.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395061214285" ignored="false" />
-    <file path="/Dummy.txt" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395062755019" ignored="false" />
+    <file path="/Dummy.txt" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395062910983" ignored="false" />
     <file path="/LinkedList.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395062403876" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,9 +95,9 @@
         </entry>
       </file>
       <file leaf-file-name="LinkedList.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/innerclass/LinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/innerclass/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="16" selection-start="87" selection-end="87" vertical-scroll-proportion="-3.0090415">
+            <state line="5" column="16" selection-start="101" selection-end="101" vertical-scroll-proportion="-3.0090415">
               <folding />
             </state>
           </provider>
@@ -153,6 +152,7 @@
         <option value="$PROJECT_DIR$/src/ac/il/shenkar/enums/Main.java" />
         <option value="$PROJECT_DIR$/src/ac/il/shenkar/enums/ac/il/shenkar/innerclass/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/innerclass/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/il/ac/shenkar/innerclass/LinkedList.java" />
       </list>
     </option>
   </component>
@@ -205,20 +205,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Code Samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Code Samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Code Samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -349,7 +335,11 @@
       <created>1395062761345</created>
       <updated>1395062761346</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changed the package">
+      <created>1395062915865</created>
+      <updated>1395062915865</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -557,9 +547,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclass/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/innerclass/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="16" selection-start="87" selection-end="87" vertical-scroll-proportion="-3.0090415">
+        <state line="5" column="16" selection-start="101" selection-end="101" vertical-scroll-proportion="-3.0090415">
           <folding />
         </state>
       </provider>

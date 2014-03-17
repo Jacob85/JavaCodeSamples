@@ -1,4 +1,4 @@
-package innerclass;
+package il.ac.shenkar.innerclass;
 
 /**
  * Created with IntelliJ IDEA.
