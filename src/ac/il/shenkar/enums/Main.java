@@ -29,7 +29,5 @@ public class Main
         double y = 8;
         for (Operation op : Operation.values())
             System.out.printf("%.1f %s %.1f = %.1f%n",x, op, y, op.apply(x, y));
-
-
     }
 }
