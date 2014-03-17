@@ -1,4 +1,4 @@
-package ac.il.shenkar.enums;
+package il.ac.shenkar.enums;
 
 /**
  * Created with IntelliJ IDEA.
