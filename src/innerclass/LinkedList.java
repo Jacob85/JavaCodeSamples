@@ -1,4 +1,4 @@
-package ac.il.shenkar.enums.ac.il.shenkar.innerclass;
+package innerclass;
 
 /**
  * Created with IntelliJ IDEA.
