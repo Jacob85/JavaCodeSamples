@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf7160a-2807-42d3-9fde-2fd4be5b1237" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\yakia\Google Drive\Code Samples\src\innerclass\LinkedList.java" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\yakia\Google Drive\Code Samples\src\innerclass\LinkedList.java" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/innerclass/LinkedList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/il/ac/shenkar/enums/Main.java" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/enums/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Code Samples.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Main.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395061175608" ignored="false" />
+    <file path="/Main.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395067420782" ignored="false" />
     <file path="/Shape.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394548572449" ignored="false" />
     <file path="/Mypoint.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394538400009" ignored="false" />
     <file path="C:/plugins/dashboard_2.0_6.1_SP5/mgmt.iws" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394954106732" ignored="false" />
@@ -17,13 +16,13 @@
     <file path="/MyPoint.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394550118451" ignored="false" />
     <file path="/Triangle.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394549634880" ignored="false" />
     <file path="/Rectangle.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394550315730" ignored="false" />
-    <file path="/*.regexp" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395062256579" ignored="false" />
+    <file path="/*.regexp" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395064093262" ignored="false" />
     <file path="C:/SAA/SAA_2.5/Applications/RSMP/src/com/mx/services/rsmp/util/DBBulk.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394978935425" ignored="false" />
     <file path="/DBBulk.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394975354686" ignored="false" />
     <file path="/DummyFile.xpath" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394976510880" ignored="false" />
     <file path="C:/plugins/6.1_sp5/voplugin/resources/cfg/StatsCollector_vo.xml" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394977272780" ignored="false" />
     <file path="/Operation.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395061214285" ignored="false" />
-    <file path="/Dummy.txt" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395062910983" ignored="false" />
+    <file path="/Dummy.txt" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395062954051" ignored="false" />
     <file path="/LinkedList.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395062403876" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +87,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/enums/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="80" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0">
+            <state line="46" column="26" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -97,7 +96,7 @@
       <file leaf-file-name="LinkedList.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/innerclass/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="16" selection-start="101" selection-end="101" vertical-scroll-proportion="-3.0090415">
+            <state line="59" column="0" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.37627813">
               <folding />
             </state>
           </provider>
@@ -153,6 +152,7 @@
         <option value="$PROJECT_DIR$/src/ac/il/shenkar/enums/ac/il/shenkar/innerclass/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/innerclass/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/innerclass/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/il/ac/shenkar/enums/Main.java" />
       </list>
     </option>
   </component>
@@ -237,7 +237,7 @@
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/plugins/6.1_sp5/XMP_Plugins.ipr" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -289,7 +289,13 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Code Samples" />
       <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -339,7 +345,11 @@
       <created>1395062915865</created>
       <updated>1395062915865</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changed the package">
+      <created>1395062958029</created>
+      <updated>1395062958029</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -351,7 +361,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39933258" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -360,8 +370,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25133404" sideWeight="0.6718576" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32814237" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25133404" sideWeight="0.6006674" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -542,14 +552,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/enums/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="80" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0">
+        <state line="46" column="26" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/innerclass/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="16" selection-start="101" selection-end="101" vertical-scroll-proportion="-3.0090415">
+        <state line="59" column="0" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.37627813">
           <folding />
         </state>
       </provider>

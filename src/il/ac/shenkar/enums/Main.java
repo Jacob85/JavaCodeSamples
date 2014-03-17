@@ -1,5 +1,7 @@
 package il.ac.shenkar.enums;
 
+import il.ac.shenkar.innerclass.LinkedList;
+
 /**
  * Created with IntelliJ IDEA.
  * User: yakia
@@ -29,5 +31,16 @@ public class Main
         double y = 8;
         for (Operation op : Operation.values())
             System.out.printf("%.1f %s %.1f = %.1f%n",x, op, y, op.apply(x, y));
+
+
+        LinkedList linkedList = new LinkedList();
+        linkedList.add(15);
+        linkedList.add("String");
+        linkedList.add(true);
+        linkedList.add(3.3);
+
+
+        System.out.println(linkedList.toString());
+
     }
 }
