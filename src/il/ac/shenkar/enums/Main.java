@@ -32,15 +32,5 @@ public class Main
         for (Operation op : Operation.values())
             System.out.printf("%.1f %s %.1f = %.1f%n",x, op, y, op.apply(x, y));
 
-
-        LinkedList linkedList = new LinkedList();
-        linkedList.add(15);
-        linkedList.add("String");
-        linkedList.add(true);
-        linkedList.add(3.3);
-
-
-        System.out.println(linkedList.toString());
-
     }
 }
