@@ -23,8 +23,9 @@ public class Main
         Thread thread1 = new Thread(printJob1);
         Thread thread2 = new Thread(printJob2);
 
+/*
         // simple thread Example
-        /*thread1.start();
+        thread1.start();
         thread2.start();
         try
         {
@@ -33,23 +34,38 @@ public class Main
         {
             e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
         }
-        System.out.println("Main in Running...");*/
+        System.out.println("Main in Running...");
+*/
 
+
+/*
         // join example
         try
         {
+            thread1.start();
             thread1.join();
-            thread1.run();
             thread2.start();
+            thread2.join();
 
         } catch (InterruptedException e)
         {
             e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
         }
+        System.out.println("Main is running ...");
+        System.out.println("Main is running ...");
+        System.out.println("Main is running ...");
+        System.out.println("Main is running ...");
+        System.out.println("Main is running ...");
+        System.out.println("Main is running ...");
+        System.out.println("Main is running ...");
+        System.out.println("Main is running ...");
+        System.out.println("Main is running ...");
+        System.out.println("Main is running ...");
+
+*/
 
 
-
-        //Producer Consumer Code
+       //Producer Consumer Code
         Producer producer = new Producer();
         producer.start();
         new Consumer(producer).start();
