@@ -1,5 +1,7 @@
 package il.ac.shenkar.point;
 
+import java.io.Serializable;
+
 /**
  * Created with IntelliJ IDEA.
  * User: yakia
@@ -7,7 +9,7 @@ package il.ac.shenkar.point;
  * Time: 1:28 PM
  * To change this template use File | Settings | File Templates.
  */
-public class MyPoint implements Comparable<MyPoint>
+public class MyPoint implements Comparable<MyPoint>, Serializable
 {
     private double xVal;
     private double yVal;

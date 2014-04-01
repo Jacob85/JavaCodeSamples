@@ -2,19 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf7160a-2807-42d3-9fde-2fd4be5b1237" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/il/ac/shenkar/threads/Main.java" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/threads/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/streams/Serialization.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/streams/UrlSample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/il/ac/shenkar/point/MyPoint.java" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/point/MyPoint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/il/ac/shenkar/Shape.java" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/Shape.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/il/ac/shenkar/Triangle.java" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/Triangle.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Code Samples.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Main.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395946157377" ignored="false" />
-    <file path="/Shape.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394548572449" ignored="false" />
+    <file path="/Shape.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1396383999432" ignored="false" />
     <file path="/Mypoint.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394538400009" ignored="false" />
     <file path="C:/plugins/dashboard_2.0_6.1_SP5/mgmt.iws" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394954106732" ignored="false" />
     <file path="/My3DPoint.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394548419866" ignored="false" />
-    <file path="/fragment.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395946066723" ignored="false" />
-    <file path="/MyPoint.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394550118451" ignored="false" />
-    <file path="/Triangle.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394549634880" ignored="false" />
+    <file path="/fragment.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1396383435473" ignored="false" />
+    <file path="/MyPoint.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1396383159673" ignored="false" />
+    <file path="/Triangle.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1396384068336" ignored="false" />
     <file path="/Rectangle.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394550315730" ignored="false" />
     <file path="/*.regexp" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395064093262" ignored="false" />
     <file path="C:/SAA/SAA_2.5/Applications/RSMP/src/com/mx/services/rsmp/util/DBBulk.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394978935425" ignored="false" />
@@ -22,7 +26,7 @@
     <file path="/DummyFile.xpath" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394976510880" ignored="false" />
     <file path="C:/plugins/6.1_sp5/voplugin/resources/cfg/StatsCollector_vo.xml" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394977272780" ignored="false" />
     <file path="/Operation.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395061214285" ignored="false" />
-    <file path="/Dummy.txt" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395815921171" ignored="false" />
+    <file path="/Dummy.txt" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1396379173516" ignored="false" />
     <file path="/LinkedList.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395062403876" ignored="false" />
     <file path="/AnonymousInnerClassExample.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395945752728" ignored="false" />
     <file path="/PringJob.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395598028098" ignored="false" />
@@ -30,6 +34,9 @@
     <file path="/Producer.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395815819229" ignored="false" />
     <file path="/Consumer.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395815835268" ignored="false" />
     <file path="/FileSystem.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395944874558" ignored="false" />
+    <file path="/UrlSample.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1396381887183" ignored="false" />
+    <file path="/Serialization.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1396384774317" ignored="false" />
+    <file path="/a.dummy" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1396384746810" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +88,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <line_breakpoints>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/src/il/ac/shenkar/threads/Producer.java" line="15" class="il.ac.shenkar.threads.Producer" package="il.ac.shenkar.threads">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
@@ -107,29 +114,86 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/threads/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="12" selection-start="1090" selection-end="1090" vertical-scroll-proportion="2.7303371">
+            <state line="17" column="21" selection-start="261" selection-end="433" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Thread.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.6.0_37/src.zip!/java/lang/Thread.java">
+      <file leaf-file-name="UrlSample.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/streams/UrlSample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="628" column="29" selection-start="23746" selection-end="23746" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="80" column="82" selection-start="2620" selection-end="2620" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Serialization.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/streams/Serialization.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="26" selection-start="336" selection-end="349" vertical-scroll-proportion="0.13533835">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#924#938#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/innerclass/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="1" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0">
+            <state line="27" column="8" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#545#554#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectOutputStream.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.6.0_37/src.zip!/java/io/ObjectOutputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="142" column="13" selection-start="6916" selection-end="6916" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyPoint.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/point/MyPoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="65" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Triangle.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/Triangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="31" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shape.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="51" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,24 +202,6 @@
         <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/threads/Producer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="54" column="14" selection-start="1482" selection-end="1482" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Operation.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/enums/Operation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="8" selection-start="270" selection-end="274" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Consumer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/threads/Consumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="8" selection-start="312" selection-end="331" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -188,11 +234,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ac/il/shenkar/enums/Planet.java" />
-        <option value="$PROJECT_DIR$/src/ac/il/shenkar/enums/Operation.java" />
-        <option value="$PROJECT_DIR$/src/ac/il/shenkar/enums/Main.java" />
-        <option value="$PROJECT_DIR$/src/ac/il/shenkar/enums/ac/il/shenkar/innerclass/LinkedList.java" />
-        <option value="$PROJECT_DIR$/src/innerclass/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/innerclass/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/enums/Main.java" />
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/threads/PringJob.java" />
@@ -204,6 +245,11 @@
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/innerclass/AnonymousInnerClassExample.java" />
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/innerclass/MyClass.java" />
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/threads/Main.java" />
+        <option value="$PROJECT_DIR$/src/il/ac/shenkar/streams/UrlSample.java" />
+        <option value="$PROJECT_DIR$/src/il/ac/shenkar/point/MyPoint.java" />
+        <option value="$PROJECT_DIR$/src/il/ac/shenkar/Shape.java" />
+        <option value="$PROJECT_DIR$/src/il/ac/shenkar/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/il/ac/shenkar/streams/Serialization.java" />
       </list>
     </option>
   </component>
@@ -252,7 +298,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -333,6 +378,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="streams" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaCodeSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaCodeSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shenkar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="point" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -359,53 +426,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCodeSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCodeSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shenkar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="enums" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="OverrideImplement.combined" value="true" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="MemberChooser.sorted" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jacob\IdeaProjects\JavaCodeSamples\src\il\ac\shenkar\threads" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadsMain">
+  <component name="RunManager" selected="Application.Serialzation">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="il.ac.shenkar.Main" />
@@ -507,11 +553,47 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="4">
+    <configuration default="false" name="URL Sample" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="il.ac.shenkar.streams.UrlSample" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="http://docs.oracle.com/javase/tutorial/networking/urls/readingURL.html readingURL.html" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Code Samples" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Serialzation" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="il.ac.shenkar.streams.Serialization" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Code Samples" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.MainEnum" />
       <item index="1" class="java.lang.String" itemvalue="Application.ThreadsMain" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MyClass" />
+      <item index="2" class="java.lang.String" itemvalue="Application.URL Sample" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Serialzation" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="5" class="java.lang.String" itemvalue="Application.MyClass" />
     </list>
     <recent_temporary>
       <list size="2">
@@ -573,12 +655,16 @@
       <created>1395815929420</created>
       <updated>1395815929420</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fixed the join code sample">
+      <created>1395982210343</created>
+      <updated>1395982210343</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -594,7 +680,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25032175" sideWeight="0.67315716" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25032175" sideWeight="0.67315716" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32684284" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -644,7 +730,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Threads code samples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed the join code sample" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -663,6 +749,7 @@
     <MESSAGE value="changed the package" />
     <MESSAGE value="Added code sample of anonymous inner class using Swing" />
     <MESSAGE value="Added Threads code samples" />
+    <MESSAGE value="Fixed the join code sample" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -672,44 +759,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="63" selection-start="1140" selection-end="1140" vertical-scroll-proportion="0.35051546">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="452" selection-end="452" vertical-scroll-proportion="0.2783505">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="84" selection-start="1474" selection-end="1474" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#545#554#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/enums/Planet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="52" selection-start="866" selection-end="881" vertical-scroll-proportion="0.058951966">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/innerclass/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="0" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/enums/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="0" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0">
@@ -747,9 +796,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.6.0_37/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="10" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
+        <state line="38" column="10" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.33333334" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/threads/PrintJob.java">
@@ -768,8 +815,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/threads/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="12" selection-start="1090" selection-end="1090" vertical-scroll-proportion="2.7303371">
+        <state line="17" column="21" selection-start="261" selection-end="433" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/streams/UrlSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="82" selection-start="2620" selection-end="2620" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/point/MyPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="65" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.6.0_37/src.zip!/java/io/ObjectOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="13" selection-start="6916" selection-end="6916" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="51" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="31" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="8" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#545#554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/streams/Serialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="26" selection-start="336" selection-end="349" vertical-scroll-proportion="0.13533835">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#924#938#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

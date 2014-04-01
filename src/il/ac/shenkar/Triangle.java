@@ -2,6 +2,8 @@ package il.ac.shenkar;
 
 import il.ac.shenkar.point.MyPoint;
 
+import java.io.Serializable;
+
 /**
  * Created with IntelliJ IDEA.
  * User: yakia
@@ -9,7 +11,7 @@ import il.ac.shenkar.point.MyPoint;
  * Time: 4:34 PM
  * To change this template use File | Settings | File Templates.
  */
-public class Triangle extends Shape
+public class Triangle extends Shape implements Serializable
 {
     private MyPoint p3;
     private double sideA;
@@ -34,6 +36,10 @@ public class Triangle extends Shape
         this.p3 = p3;
     }
 
+    public Triangle(MyPoint p1, MyPoint p2)
+    {
+        super(p1, p2);
+    }
 
     private void calcSides()
     {
@@ -49,5 +55,16 @@ public class Triangle extends Shape
         return sideA + sideB + sideC;
     }
 
-
+    @Override
+    public String toString()
+    {
+        return "Triangle{" +
+                "p1="+ getP1()+
+                "p2="+ getP2()+
+                "p3=" + p3 +
+                ", sideA=" + sideA +
+                ", sideB=" + sideB +
+                ", sideC=" + sideC +
+                '}';
+    }
 }

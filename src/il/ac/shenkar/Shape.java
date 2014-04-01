@@ -2,6 +2,8 @@ package il.ac.shenkar;
 
 import il.ac.shenkar.point.MyPoint;
 
+import java.io.Serializable;
+
 /**
  * Created with IntelliJ IDEA.
  * User: yakia
@@ -9,7 +11,7 @@ import il.ac.shenkar.point.MyPoint;
  * Time: 1:28 PM
  * To change this template use File | Settings | File Templates.
  */
-public abstract class Shape
+public abstract class Shape implements Serializable
 {
     private MyPoint p1;
     private MyPoint p2;
