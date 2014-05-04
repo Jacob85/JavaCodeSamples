@@ -53,7 +53,7 @@ public class SimpleGuiDemo
 
         mainFrame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         mainFrame.setVisible(true);
-        mainFrame.setSize(600, 400);
+        mainFrame.setExtendedState(JFrame.MAXIMIZED_BOTH);
     }
 
     public static void main (String[] args)
