@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf7160a-2807-42d3-9fde-2fd4be5b1237" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/HelloWorld.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/reflection/ReflectionDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCodeSamples/ScalaCodeSamples.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/highlighting.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/scala.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/log4j-1.2.17.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/log4j/Log4JDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/log4j_1_2_17.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code Samples.iml" afterPath="$PROJECT_DIR$/Code Samples.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScalaCodeSamples/ScalaCodeSamples.iml" afterPath="$PROJECT_DIR$/ScalaCodeSamples/ScalaCodeSamples.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Code Samples.iws" />
@@ -27,7 +27,7 @@
     <file path="/DummyFile.xpath" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394976510880" ignored="false" />
     <file path="C:/plugins/6.1_sp5/voplugin/resources/cfg/StatsCollector_vo.xml" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394977272780" ignored="false" />
     <file path="/Operation.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395061214285" ignored="false" />
-    <file path="/Dummy.txt" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399749909667" ignored="false" />
+    <file path="/Dummy.txt" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399836570964" ignored="false" />
     <file path="/LinkedList.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395062403876" ignored="false" />
     <file path="/AnonymousInnerClassExample.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395945752728" ignored="false" />
     <file path="/PringJob.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395598028098" ignored="false" />
@@ -49,6 +49,8 @@
     <file path="/HelloWorld.scala" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399752492965" ignored="false" />
     <file path="/Scala Console" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399708679261" ignored="false" />
     <file path="/ReflectionDemo.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399756040097" ignored="false" />
+    <file path="/log4j.properties" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399837922123" ignored="false" />
+    <file path="/Log4JDemo.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399837884468" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +65,23 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/il/ac/shenkar/threads/Producer.java" line="15" class="il.ac.shenkar.threads.Producer" package="il.ac.shenkar.threads">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -100,23 +119,6 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/il/ac/shenkar/threads/Producer.java" line="15" class="il.ac.shenkar.threads.Producer" package="il.ac.shenkar.threads">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -126,28 +128,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Person.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/generics/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="33" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="UrlSample.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/streams/UrlSample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="79" column="27" selection-start="2241" selection-end="2565" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonExampleMain.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/generics/PersonExampleMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="14" selection-start="1790" selection-end="1790" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -198,10 +182,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReflectionDemo.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ReflectionDemo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/reflection/ReflectionDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="20" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.700831">
+            <state line="51" column="20" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -209,11 +193,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/Main.java">
+      <file leaf-file-name="log4j.properties" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/conf/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="22" selection-start="779" selection-end="958" vertical-scroll-proportion="0.0">
+            <state line="6" column="17" selection-start="243" selection-end="279" vertical-scroll-proportion="0.245827">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Log4JDemo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/log4j/Log4JDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="105" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -236,9 +231,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/il/ac/shenkar/threads/Main.java" />
-        <option value="$PROJECT_DIR$/src/il/ac/shenkar/streams/UrlSample.java" />
-        <option value="$PROJECT_DIR$/src/il/ac/shenkar/point/MyPoint.java" />
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/Shape.java" />
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/Triangle.java" />
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/streams/Serialization.java" />
@@ -252,6 +244,9 @@
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/generics/CallbackMain.java" />
         <option value="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/HelloWorld.scala" />
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/reflection/ReflectionDemo.java" />
+        <option value="$PROJECT_DIR$/src/il/ac/shenkar/log4j.java" />
+        <option value="$PROJECT_DIR$/src/il/ac/shenkar/log4j/Log4JDemo.java" />
+        <option value="$PROJECT_DIR$/conf/log4j.properties" />
       </list>
     </option>
   </component>
@@ -376,7 +371,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="reflection" />
+              <option name="myItemId" value="log4j" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -390,29 +385,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaCodeSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCodeSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCodeSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaCodeSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
+              <option name="myItemId" value="conf" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -423,7 +396,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="OverrideImplement.combined" value="true" />
@@ -431,7 +404,7 @@
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/scala-2.9.2/src/scala-swing-src.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -444,28 +417,14 @@
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jacob\IdeaProjects\JavaCodeSamples\lib" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jacob\IdeaProjects\JavaCodeSamples\src\il\ac\shenkar\threads" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReflectionDemo">
-    <configuration default="false" name="PersonExampleMain" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="il.ac.shenkar.generics.PersonExampleMain" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Code Samples" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Log4JDemo">
     <configuration default="false" name="CallbackMain" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="il.ac.shenkar.generics.CallbackMain" />
@@ -512,6 +471,23 @@
     <configuration default="false" name="ReflectionDemo" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="il.ac.shenkar.reflection.ReflectionDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Code Samples" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Log4JDemo" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="il.ac.shenkar.log4j.Log4JDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -633,19 +609,19 @@
       <item index="1" class="java.lang.String" itemvalue="Application.ThreadsMain" />
       <item index="2" class="java.lang.String" itemvalue="Application.URL Sample" />
       <item index="3" class="java.lang.String" itemvalue="Application.Serialzation" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PersonExampleMain" />
-      <item index="5" class="java.lang.String" itemvalue="Application.CallbackMain" />
-      <item index="6" class="java.lang.String" itemvalue="Application.HelloWorld" />
-      <item index="7" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
-      <item index="8" class="java.lang.String" itemvalue="Application.ReflectionDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CallbackMain" />
+      <item index="5" class="java.lang.String" itemvalue="Application.HelloWorld" />
+      <item index="6" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
+      <item index="7" class="java.lang.String" itemvalue="Application.ReflectionDemo" />
+      <item index="8" class="java.lang.String" itemvalue="Application.Log4JDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ReflectionDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HelloWorld" />
-        <item index="2" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CallbackMain" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PersonExampleMain" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Log4JDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ReflectionDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HelloWorld" />
+        <item index="3" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CallbackMain" />
       </list>
     </recent_temporary>
   </component>
@@ -718,12 +694,16 @@
       <created>1399236751300</created>
       <updated>1399236751300</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Reflection Demo and Scala Hello World">
+      <created>1399757662150</created>
+      <updated>1399757662150</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -738,8 +718,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25032175" sideWeight="0.58553547" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41446453" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25032175" sideWeight="0.58553547" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41446453" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -789,7 +769,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Generics samples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reflection Demo and Scala Hello World" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -812,6 +792,7 @@
     <MESSAGE value="added Serialization sample" />
     <MESSAGE value="Added GUI Demo" />
     <MESSAGE value="Added Generics samples" />
+    <MESSAGE value="Reflection Demo and Scala Hello World" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -821,21 +802,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.6.0_37/src.zip!/java/io/ObjectOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="13" selection-start="6916" selection-end="6916" vertical-scroll-proportion="0.039589442" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="297" selection-end="297" vertical-scroll-proportion="0.039589442" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="31" selection-start="275" selection-end="275" vertical-scroll-proportion="0.03884892" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/streams/Serialization.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="20" selection-start="667" selection-end="711" vertical-scroll-proportion="0.0" />
@@ -916,10 +882,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/reflection/ReflectionDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="20" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.700831">
+        <state line="51" column="20" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/logging.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/log4j/Log4JDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="105" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="17" selection-start="243" selection-end="279" vertical-scroll-proportion="0.245827">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -987,7 +976,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala</last-edited>
+          <last-edited>log4j-1.2.17</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
