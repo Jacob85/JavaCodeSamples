@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf7160a-2807-42d3-9fde-2fd4be5b1237" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Circle.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/FileReader.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Main.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCodeSamples/ReadME.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Student.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/HelloWorld.scala" afterPath="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/HelloWorld.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Code Samples.iws" />
@@ -27,7 +21,7 @@
     <file path="/DummyFile.xpath" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394976510880" ignored="false" />
     <file path="C:/plugins/6.1_sp5/voplugin/resources/cfg/StatsCollector_vo.xml" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394977272780" ignored="false" />
     <file path="/Operation.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395061214285" ignored="false" />
-    <file path="/Dummy.txt" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400323158307" ignored="false" />
+    <file path="/Dummy.txt" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400331179397" ignored="false" />
     <file path="/LinkedList.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395062403876" ignored="false" />
     <file path="/AnonymousInnerClassExample.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395945752728" ignored="false" />
     <file path="/PringJob.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395598028098" ignored="false" />
@@ -812,7 +806,11 @@
       <created>1400323176042</created>
       <updated>1400323176042</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Scala Code Samples">
+      <created>1400331189064</created>
+      <updated>1400331189064</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -883,7 +881,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added My Chat Exe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scala Code Samples" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -910,6 +908,7 @@
     <MESSAGE value="Added log4J Sample" />
     <MESSAGE value="Added Junit testing" />
     <MESSAGE value="Added My Chat Exe" />
+    <MESSAGE value="Scala Code Samples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
