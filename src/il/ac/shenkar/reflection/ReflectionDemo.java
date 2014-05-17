@@ -20,9 +20,9 @@ public class ReflectionDemo
     public static void main(String[] args)
     {
         Rectangle rec = new Rectangle(new MyPoint(2,4), new MyPoint(4,6), new MyPoint(2,4) ,new MyPoint(4,8));
-        Class aClass = rec.getClass();
-        Field[] recFields = aClass.getDeclaredFields();
-        Method[] recMethods =  aClass.getDeclaredMethods();
+        Class recClass = rec.getClass();
+        Field[] recFields = recClass.getDeclaredFields();
+        Method[] recMethods =  recClass.getDeclaredMethods();
 
         System.out.println("Class Fields");
         for (Field currField : recFields)
@@ -37,10 +37,10 @@ public class ReflectionDemo
         }
 
 
-        Class recSuperClass = aClass.getSuperclass();
+        Class recSuperClass = recClass.getSuperclass();
         if (recSuperClass == null)
         {
-            System.out.println(String.format("The class %s dose not have a super class", aClass.getSimpleName()));
+            System.out.println(String.format("The class %s dose not have a super class", recClass.getSimpleName()));
         }
         else
         {
