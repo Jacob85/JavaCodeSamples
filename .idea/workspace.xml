@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf7160a-2807-42d3-9fde-2fd4be5b1237" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/chat/server/ClientDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/chat/client/ClientGUI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/chat/client/ConnectionProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/chat/server/ConnectionProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/chat/server/MessageBoard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/chat/client/NickWindow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/chat/server/ServerApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/chat/client/StringConsumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/chat/server/StringConsumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/chat/client/StringProducer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/chat/server/StringProducer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/il/ac/shenkar/reflection/ReflectionDemo.java" afterPath="$PROJECT_DIR$/src/il/ac/shenkar/reflection/ReflectionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Circle.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/FileReader.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Main.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCodeSamples/ReadME.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Student.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/HelloWorld.scala" afterPath="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/HelloWorld.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Code Samples.iws" />
@@ -23,7 +17,7 @@
     <file path="/Mypoint.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394538400009" ignored="false" />
     <file path="C:/plugins/dashboard_2.0_6.1_SP5/mgmt.iws" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394954106732" ignored="false" />
     <file path="/My3DPoint.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394548419866" ignored="false" />
-    <file path="/fragment.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399840897946" ignored="false" />
+    <file path="/fragment.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400326240967" ignored="false" />
     <file path="/MyPoint.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1396383159673" ignored="false" />
     <file path="/Triangle.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1396384068336" ignored="false" />
     <file path="/Rectangle.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399839163622" ignored="false" />
@@ -33,7 +27,7 @@
     <file path="/DummyFile.xpath" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394976510880" ignored="false" />
     <file path="C:/plugins/6.1_sp5/voplugin/resources/cfg/StatsCollector_vo.xml" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1394977272780" ignored="false" />
     <file path="/Operation.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395061214285" ignored="false" />
-    <file path="/Dummy.txt" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400319248552" ignored="false" />
+    <file path="/Dummy.txt" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400323158307" ignored="false" />
     <file path="/LinkedList.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395062403876" ignored="false" />
     <file path="/AnonymousInnerClassExample.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395945752728" ignored="false" />
     <file path="/PringJob.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1395598028098" ignored="false" />
@@ -52,7 +46,7 @@
     <file path="/IWebObject.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399236009227" ignored="false" />
     <file path="/WebObject.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399236572404" ignored="false" />
     <file path="/CallbackMain.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399236607455" ignored="false" />
-    <file path="/HelloWorld.scala" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399752492965" ignored="false" />
+    <file path="/HelloWorld.scala" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400326567590" ignored="false" />
     <file path="/Scala Console" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399708679261" ignored="false" />
     <file path="/ReflectionDemo.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400218472817" ignored="false" />
     <file path="/log4j.properties" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1399837922123" ignored="false" />
@@ -63,6 +57,11 @@
     <file path="/MessageBoard.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400321525642" ignored="false" />
     <file path="/ConnectionProxy.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400322759473" ignored="false" />
     <file path="/ClientDescriptor.java" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400322942311" ignored="false" />
+    <file path="/FileReader.scala" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400326386402" ignored="false" />
+    <file path="/ReadME.txt" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400326081723" ignored="false" />
+    <file path="/Student.scala" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400329436299" ignored="false" />
+    <file path="/Main.scala" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400331160142" ignored="false" />
+    <file path="/Circle.scala" changelist="cbf7160a-2807-42d3-9fde-2fd4be5b1237" time="1400330126946" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,15 +139,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ReflectionDemo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/reflection/ReflectionDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="15" selection-start="1948" selection-end="1948" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ConnectionProxy.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/chat/server/ConnectionProxy.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -161,10 +151,75 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClientDescriptor.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ClientDescriptor.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/chat/server/ClientDescriptor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="41" selection-start="519" selection-end="519" vertical-scroll-proportion="0.978852">
+            <state line="24" column="41" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorld.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/HelloWorld.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="203" selection-end="240" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Student.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="0" selection-start="664" selection-end="664" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.scala" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Main.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="49" selection-start="919" selection-end="919" vertical-scroll-proportion="0.5512465">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Circle.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Circle.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="59" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Math.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/scala-2.9.2/src/scala-library-src.jar!/scala/Math.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="7" selection-start="855" selection-end="855" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileReader.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/FileReader.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="64" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#29#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadME.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCodeSamples/ReadME.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -174,24 +229,6 @@
         <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/chat/server/MessageBoard.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="40" column="16" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringConsumer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/chat/server/StringConsumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="17" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ServerApplication.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/chat/server/ServerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="18" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -215,13 +252,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/il/ac/shenkar/generics/IWebObject.java" />
-        <option value="$PROJECT_DIR$/src/il/ac/shenkar/generics/WebObject.java" />
-        <option value="$PROJECT_DIR$/src/il/ac/shenkar/generics/CallbackMain.java" />
-        <option value="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/HelloWorld.scala" />
-        <option value="$PROJECT_DIR$/src/il/ac/shenkar/log4j.java" />
-        <option value="$PROJECT_DIR$/src/il/ac/shenkar/log4j/Log4JDemo.java" />
-        <option value="$PROJECT_DIR$/conf/log4j.properties" />
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/streams/UrlSample.java" />
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/Rectangle.java" />
         <option value="$PROJECT_DIR$/test/il/ac/shenkar/RectangleTest.java" />
@@ -231,6 +261,13 @@
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/chat/server/MessageBoard.java" />
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/chat/server/ConnectionProxy.java" />
         <option value="$PROJECT_DIR$/src/il/ac/shenkar/chat/server/ClientDescriptor.java" />
+        <option value="$PROJECT_DIR$/ScalaCodeSamples/ReadME.txt" />
+        <option value="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/FileReader.scala" />
+        <option value="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/HelloWorld.scala" />
+        <option value="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Rectangle.scala" />
+        <option value="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Student.scala" />
+        <option value="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Circle.scala" />
+        <option value="$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Main.scala" />
       </list>
     </option>
   </component>
@@ -266,10 +303,13 @@
           <State>
             <id>Plugin DevKit</id>
           </State>
+          <State>
+            <id>Scala: General</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Abstraction issues</id>
+            <id>ScalaDeprecation</id>
           </State>
         </selected-state>
       </profile-state>
@@ -330,63 +370,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shenkar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCodeSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCodeSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shenkar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCodeSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCodeSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shenkar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
+              <option name="myItemId" value="ScalaCodeSamples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -401,6 +385,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ScalaCodeSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shenkar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaCodeSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaCodeSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaCodeSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shenkar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -462,7 +480,7 @@
       <recent name="C:\Users\Jacob\IdeaProjects\JavaCodeSamples\src\il\ac\shenkar\threads" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClientGUI">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="HelloWorld" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="il.ac.shenkar.hello.HelloWorld" />
@@ -475,23 +493,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="ScalaCodeSamples" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ReflectionDemo" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="il.ac.shenkar.reflection.ReflectionDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Code Samples" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -531,11 +532,36 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true">
+    <configuration default="false" name="FileReader" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="il.ac.shenkar.hello.FileReader" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="ScalaCodeSamples/ReadME.txt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="ScalaCodeSamples" />
-      <setting name="vmparams4" value="-Djline.terminal=NONE" />
-      <setting name="consoleArgs" value="-usejavacp" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="il.ac.shenkar.classes.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ScalaCodeSamples" />
+      <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -686,18 +712,18 @@
       <item index="3" class="java.lang.String" itemvalue="Application.Serialzation" />
       <item index="4" class="java.lang.String" itemvalue="Application.ClientGUI" />
       <item index="5" class="java.lang.String" itemvalue="Application.HelloWorld" />
-      <item index="6" class="java.lang.String" itemvalue="Application.ReflectionDemo" />
-      <item index="7" class="java.lang.String" itemvalue="Application.Log4JDemo" />
-      <item index="8" class="java.lang.String" itemvalue="Application.ServerApplication" />
-      <item index="9" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Log4JDemo" />
+      <item index="7" class="java.lang.String" itemvalue="Application.ServerApplication" />
+      <item index="8" class="java.lang.String" itemvalue="Application.FileReader" />
+      <item index="9" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ServerApplication" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Log4JDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ReflectionDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.HelloWorld" />
-        <item index="4" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.HelloWorld" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FileReader" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ServerApplication" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Log4JDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -782,7 +808,11 @@
       <created>1399839954301</created>
       <updated>1399839954301</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added My Chat Exe">
+      <created>1400323176042</created>
+      <updated>1400323176042</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -798,13 +828,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281027" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24934895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20247395" sideWeight="0.5820257" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41797432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41797432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -853,7 +883,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Junit testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added My Chat Exe" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -879,6 +909,7 @@
     <MESSAGE value="Reflection Demo and Scala Hello World" />
     <MESSAGE value="Added log4J Sample" />
     <MESSAGE value="Added Junit testing" />
+    <MESSAGE value="Added My Chat Exe" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -888,49 +919,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/conf/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="3" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/streams/UrlSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="33" selection-start="2636" selection-end="2636" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="21" selection-start="771" selection-end="771" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="31" selection-start="1119" selection-end="1132" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/il/ac/shenkar/RectangleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="0" selection-start="1520" selection-end="1520" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/chat/client/ConnectionProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="234" selection-end="234" vertical-scroll-proportion="0.04066265">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/chat/client/NickWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="337" selection-end="337" vertical-scroll-proportion="0.039881833">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/chat/client/StringConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="17" selection-start="53" selection-end="53" vertical-scroll-proportion="0.079763666">
@@ -962,7 +950,9 @@
     <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/chat/server/ServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="18" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -992,7 +982,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/il/ac/shenkar/chat/server/ClientDescriptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="41" selection-start="519" selection-end="519" vertical-scroll-proportion="0.978852">
+        <state line="24" column="41" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCodeSamples/ReadME.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/FileReader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="64" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#29#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/hello/HelloWorld.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="203" selection-end="240" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Student.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="664" selection-end="664" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/scala-2.9.2/src/scala-library-src.jar!/scala/Math.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="7" selection-start="855" selection-end="855" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Circle.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="59" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCodeSamples/src/il/ac/shenkar/classes/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="49" selection-start="919" selection-end="919" vertical-scroll-proportion="0.5512465">
           <folding />
         </state>
       </provider>

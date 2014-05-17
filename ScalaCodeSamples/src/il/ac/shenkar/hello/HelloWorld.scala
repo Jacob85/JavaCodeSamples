@@ -43,7 +43,41 @@ object HelloWorld
     vec = vec.sortBy(x => x.length )
     vec.foreach(println)
 
+    /* ::: sample*/
+    val list1 = List(10,20,30)
+    val list2 = List(40,50,60)
+    val list3 = list1 ::: list2   /* ::: concat list 1 to list 2*/
+    list3.foreach(println)
 
+    /* :: sample*/
+    val list4 =  13 :: list3
+    println("the new list with 13...")
+    list4.foreach(println)
+
+    /* Tuples  - constant data structure which can hold different data types*/
+    val ob = (123, "hello", 1.2, true)
+    println(ob)
+    if (ob._4)     /* access the tuple fields*/
+      println(ob._4)
+
+
+
+    /* Maps*/
+    var myMap = Map[String, Int]()
+    myMap += ("Hello" -> 12)
+    myMap += ("hi" -> 13)
+    println("My Map: " + myMap)
+
+
+    /* Blocks*/
+    def func (num: Int) = num*num + num
+    val number =
+    {
+      val a = func(1)
+      val b = func(4)
+      a+b
+    }
+    println(number)
   }
 
 
