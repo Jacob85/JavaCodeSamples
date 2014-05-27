@@ -16,7 +16,7 @@ public class Log4JDemo
 
     public static void main(String args[])
     {
-        PropertyConfigurator.configure("C:\\Users\\Jacob\\IdeaProjects\\JavaCodeSamples\\conf\\log4j.properties");
+        PropertyConfigurator.configure(".\\conf\\log4j.properties");
         logger.info("This is a demo info message");
 
         //this code is for creating a null pointer Exception

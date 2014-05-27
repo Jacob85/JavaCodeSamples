@@ -11,6 +11,6 @@ import java.net.URL;
  */
 public interface IWebObject
 {
-    public void getFromWeb(URL getFileFrom, Callback<String> fileAsString);
+    public void getFromWeb(URL getFileFrom, Callback<String> callback);
 
 }
